@@ -1,0 +1,25 @@
+{
+  "name": "test-eslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yooyklon/ESLint.git"
+  },
+  "author": "Dmitry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yooyklon/ESLint/issues"
+  },
+  "homepage": "https://github.com/yooyklon/ESLint#readme",
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
